@@ -15,3 +15,7 @@ Oi eu sou Renan, desenvolvedor e fã de Arctic Monkeys
 ---
 [![](https://visitcount.itsvg.in/api?id=RenanKovachich&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Wakatime:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
