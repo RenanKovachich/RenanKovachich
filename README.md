@@ -15,25 +15,3 @@ Oi eu sou Renan, desenvolvedor e fã de Arctic Monkeys
 ---
 [![](https://visitcount.itsvg.in/api?id=RenanKovachich&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Wakatime
-name: Waka Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: renankovachich/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
