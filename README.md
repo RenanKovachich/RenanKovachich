@@ -16,10 +16,10 @@ Oi eu sou Renan, desenvolvedor e fã de Arctic Monkeys
 [![](https://visitcount.itsvg.in/api?id=RenanKovachich&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Wakatime:
-[![wakatime](https://wakatime.com/badge/user/945ece8f-9b97-440c-9713-a7390e66a7c9/project/46d53d66-8cdc-4658-855c-84c051c496fe.svg)](https://wakatime.com/badge/user/945ece8f-9b97-440c-9713-a7390e66a7c9/project/46d53d66-8cdc-4658-855c-84c051c496fe)
+
 <p align="center">
   <a href="https://wakatime.com/@renankv">
-    <img src="https://wakatime.com/share/@renankv/c1ddaea3-b07f-47b2-9957-0677aaab1d1c.svg"/>
+    <img src="https://wakatime.com/share/@renankv/c1ddaea3-b07f-47b2-9957-0677aaab1d1c.svg" height="400"/>
   </a>
  </p>
 
