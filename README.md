@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi eu sou Renan, desenvolvedor e fã de Arctic Monkeys
+Oi eu sou Renan, desenvolvedor e fã de Arctic Monkeys.
 
 
 ## 🌐 Socials:
